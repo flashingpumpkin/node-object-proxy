@@ -1,0 +1,28 @@
+{
+    "name": "object-proxy",
+    "description": "Proxying an object's methods",
+    "tags": [
+        "node",
+        "coffeescript",
+        "object",
+        "proxy"
+    ],
+    "version": "0.0.1",
+    "author": "Alen Mujezinovic <alen@caffeinehit.com>",
+    "licenses": [{
+        "type": "MIT",
+        "url": "http://opensource.org/licenses/mit-license.php"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "https//github.com/flashingpumpkin/node-pubsub.git"
+    },
+    "bugs": "https://github.com/flashingpumpkin/node-pubsub/issues",
+    "engines": [
+        "node >= 0.2.0"
+    ],
+    "directories": {
+        "lib" : "./lib"
+    },
+    "main": "./lib/object-proxy",
+}
