@@ -1,8 +1,8 @@
-#### node-object-proxy
+# node-object-proxy
 
-### Synopsis
+## Synopsis
 
-## Browser
+### Browser
     
     obj = {
         fancyFunction : (arg1, arg2, arg3)->
@@ -27,7 +27,7 @@
     proxiedObj = proxy.proxy(obj, remote)
     
 
-## Server
+### Server
 
     proxy = require 'object-proxy'
     
